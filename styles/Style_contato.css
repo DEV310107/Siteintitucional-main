@@ -1,0 +1,42 @@
+.corpo {
+    margin-left: 50px;
+}
+
+.formulario {
+    margin: 20px;
+}
+
+.formulario > textarea {
+    width: 560px;
+    height: 40px;
+}
+
+.formulario > h6 {
+    font-size: 20px;
+}
+
+.formulario .maior {
+    width: 560px;
+    height: 400px;
+}
+
+.bot > button{
+    margin-left: 70px;
+    font-size: 24px;
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    width: 260px;
+    height: 70px;
+}
+
+.info {
+    margin-left: 70px;
+}
+
+.info > p{
+    font-size: 16px;
+}
+
+.info > h6 {
+    font-size: 20px;
+}

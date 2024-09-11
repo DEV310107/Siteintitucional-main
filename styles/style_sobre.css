@@ -1,0 +1,33 @@
+.txt01 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1,6;
+    
+}
+
+.txt01 > h1 {
+    text-align: left;
+    text-align: justify;
+}
+
+.txt01 > p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.lista {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1,6;
+}
+
+.lista > li {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.lista > ol {
+    padding-left: 0;
+}
